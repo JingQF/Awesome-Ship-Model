@@ -2,8 +2,8 @@
 Collecting useful literatures, database, code for ship motion simulation, especially for maneuvering research.
 
 ## Database
-1. [SMCDB-Ship Maneuvering Coefficients Database ]() - The database is constructed by calculating and collecting hydrodynamic coefficients from literatures and model test data. The source literatures related to each data are recorded.
-2. [ShipSlicer3D]() - This is a novel tool to slice a ship model in STL format. The three ships of SIMMAN 2014 are modeled and sliced into a slice database. There are sufficient section/profile data of the three ships for calculating hydrodynamic coefficients with 2D based methods.
+1. [SMCDB-Ship Maneuvering Coefficients Database ](https://github.com/JingQF/SMCDB-Ship-Maneuvering-Coefficients-Database) - The database is constructed by calculating and collecting hydrodynamic coefficients from literatures and model test data. The source literatures related to each data are recorded.
+2. [ShipSlicer3D](https://github.com/JingQF/ShipSlicer3D) - This is a novel tool to slice a ship model in STL format. The three ships of SIMMAN 2014 are modeled and sliced into a slice database. There are sufficient section/profile data of the three ships for calculating hydrodynamic coefficients with 2D based methods.
 
 ## Workshops & Conferences
  1. [ITTC](https://ittc.info/) - 

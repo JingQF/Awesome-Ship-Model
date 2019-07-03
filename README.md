@@ -41,22 +41,22 @@ Collecting useful literatures, database, code for ship motion simulation, especi
   1. [SimVal](https://www.sintef.no/projectweb/simval) - Sea Trials and Model Tests for Validation of Shiphandling Simulation Models
 
 ## Ohter useful information
-### Name table of authors related to MMG (CHN,JP,EN)
-1.井上 正祐   Inoue Shosuke
-1.貴島 勝郎   Kijima Katsuro
-1.田才 福造   Fukuzo Tasai
-1.芳村 康男   Yasuo Yoshimura
-1.井上 正祐   Shosuke Inoue
-1.長谷川 和彦 Kazuhiko Hasegawa
-1.松本 憲洋   Norihiro Matsumoto
-1.平野 雅祥   Masayoshi Hirano
-1.青木 伊知郎 Ichiro Aoki
-1.元良 诚三   Seizo Motora
-1.小川 陽弘   Akihiro Ogawa
-1.藤井 齐     Hitoshi Fujii
-1.藤原 敏文   Toshifumi Fujiwara
-1.古川 孝芳   Yoshitaka Furukawa
-1.野中 晃二   Koji Nonaka
-1.乌野 庆一   Keiichi Karasuno
-1.汤室 彰规
-1.安川 宏纪   Hironori Yasukawa
+### Quick check name table of authors related to MMG (JP-EN) ***NOT LISTED IN ORDER*** 
+1. 井上 正祐     Inoue Shosuke
+2. 貴島 勝郎     Kijima Katsuro
+3. 田才 福造     Fukuzo Tasai
+4. 芳村 康男     Yasuo Yoshimura
+5. 井上 正祐     Shosuke Inoue
+6. 長谷川 和彦   Kazuhiko Hasegawa
+7. 松本 憲洋     Norihiro Matsumoto
+8. 平野 雅祥     Masayoshi Hirano
+9. 青木 伊知郎   Ichiro Aoki
+10. 元良 诚三    Seizo Motora
+11. 小川 陽弘    Akihiro Ogawa
+12. 藤井 齐      Hitoshi Fujii
+13. 藤原 敏文    Toshifumi Fujiwara
+14. 古川 孝芳    Yoshitaka Furukawa
+15. 野中 晃二    Koji Nonaka
+16. 乌野 庆一    Keiichi Karasuno
+17. 汤室 彰规
+18. 安川 宏纪    Hironori Yasukawa

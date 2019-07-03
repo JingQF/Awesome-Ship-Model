@@ -6,14 +6,20 @@ Collecting useful literatures, database, code for ship motion simulation, especi
 2. [ShipSlicer3D](https://github.com/JingQF/ShipSlicer3D) - This is a novel tool to slice a ship model in STL format. The three ships of SIMMAN 2014 are modeled and sliced into a slice database. There are sufficient section/profile data of the three ships for calculating hydrodynamic coefficients with 2D based methods.
 
 ## Workshops & Conferences
- 1. [ITTC](https://ittc.info/) - 
+1. [ITTC](https://ittc.info/) - 
     1. [ITTC-2017](http://www.ittc2017.com/)
- 2. SIMMAN - 
+2. SIMMAN - 
     1. [SIMMAN-2008](http://www.simman2008.dk/)
     2. [SIMMAN-2014](https://simman2014.dk/)
     3. [SIMMAN-2019/2020](http://www.simman2019.kr/)
- 3. [IWWWFB](http://www.iwwwfb.org/Workshops/34.htm) - 
+3. [IWWWFB](http://www.iwwwfb.org/Workshops/34.htm) - 
   
+## Famous Researchers 
+1. H.Yasukawa
+2. Fossen.I
+3. 
+
+
 ## Open Source Code
 1. [Marine Systems Simulator - MSS](http://www.marinecontrol.org/) - Fossen
 2. [WaveBEM](https://mathlab.sissa.it/wavebem) - 
@@ -33,3 +39,24 @@ Collecting useful literatures, database, code for ship motion simulation, especi
   4. [ABB](https://new.abb.com/marine/systems-and-solutions/automation-and-marinesoftware/advisory)
   ### Other
   1. [SimVal](https://www.sintef.no/projectweb/simval) - Sea Trials and Model Tests for Validation of Shiphandling Simulation Models
+
+## Ohter useful information
+### Name table of authors related to MMG (CHN,JP,EN)
+1.井上 正祐   Inoue Shosuke
+1.貴島 勝郎   Kijima Katsuro
+1.田才 福造   Fukuzo Tasai
+1.芳村 康男   Yasuo Yoshimura
+1.井上 正祐   Shosuke Inoue
+1.長谷川 和彦 Kazuhiko Hasegawa
+1.松本 憲洋   Norihiro Matsumoto
+1.平野 雅祥   Masayoshi Hirano
+1.青木 伊知郎 Ichiro Aoki
+1.元良 诚三   Seizo Motora
+1.小川 陽弘   Akihiro Ogawa
+1.藤井 齐     Hitoshi Fujii
+1.藤原 敏文   Toshifumi Fujiwara
+1.古川 孝芳   Yoshitaka Furukawa
+1.野中 晃二   Koji Nonaka
+1.乌野 庆一   Keiichi Karasuno
+1.汤室 彰规
+1.安川 宏纪   Hironori Yasukawa

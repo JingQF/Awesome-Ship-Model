@@ -44,12 +44,12 @@ Collecting useful literatures, database, code for ship motion simulation, especi
 ### Quick check name table of authors related to MMG Method (JP-EN) 
 + ***NOT LISTED IN ORDER***  
 
-| 表格      | 第一列     | 第二列     |
+| Name in JP      | Name in EN     | Papers     |
 | ---------- | :-----------:  | :-----------: |
-| 第一行     | 第一列     | 第二列     |
+| 井上 正祐     | Inoue Shosuke     | 第二列     |
+| ---------- | :-----------:  | :-----------: |
+| 貴島 勝郎     | Kijima Katsuro     | 第二列     |
 
-1. 井上 正祐  -   Inoue Shosuke
-2. 貴島 勝郎  -   Kijima Katsuro
 3. 田才 福造  -   Fukuzo Tasai
 4. 芳村 康男  -   Yasuo Yoshimura
 5. 井上 正祐  -   Shosuke Inoue
